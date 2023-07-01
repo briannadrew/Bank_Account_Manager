@@ -1,5 +1,4 @@
 ﻿/* Author: Brianna Drew
-Student ID: 0622446
 Description: This is a program that helps to balance the user's bank account.
 
 Data Dictionary (Variables):
